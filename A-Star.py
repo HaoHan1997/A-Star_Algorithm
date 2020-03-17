@@ -62,6 +62,7 @@ import math
 import heapq
 
 
+
 class AStar:
     def __init__(self, n, adj, cost, x, y):
         self.n = n;
